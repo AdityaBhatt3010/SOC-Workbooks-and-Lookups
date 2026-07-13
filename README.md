@@ -14,8 +14,6 @@ Instead of blindly reacting to alerts, analysts learn how to answer practical qu
 
 Let’s walk through the room practically.
 
-**Lab Link:** [https://tryhackme.com/room/socworkbookslookups/](https://tryhackme.com/room/socworkbookslookups/)
-
 ---
 
 # Learning Objectives
@@ -368,22 +366,24 @@ This is the foundation of efficient triage.
 
 ## Flags
 
+Note: Add the three letters just before the Flag.
+
 First workbook:
 
 ```text
-THM{the_most_common_soc_workbook}
+{the_most_common_soc_workbook}
 ```
 
 Second workbook:
 
 ```text
-THM{be_vigilant_with_powershell}
+{be_vigilant_with_powershell}
 ```
 
 Third workbook:
 
 ```text
-THM{asset_inventory_is_essential}
+{asset_inventory_is_essential}
 ```
 
 ---
